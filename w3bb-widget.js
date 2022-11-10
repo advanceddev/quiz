@@ -6602,6 +6602,9 @@ const Ad = `
         background: #fff;
         color: #000;
     }
+    .w3bb-quiz-modal-main {
+        padding: 2em 0;
+    }
 }
 @supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
 	.w3bb-quiz-modal-overlay {
