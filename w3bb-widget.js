@@ -6232,7 +6232,7 @@ const vp = `
     -ms-user-select: none;
     user-select: none;
     text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
-	z-index: 999;
+	z-index: 99999;
 }
 .w3bb-quiz-modal-body {
     position: relative;
